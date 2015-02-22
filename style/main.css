@@ -3,8 +3,8 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: #9cc2d2;
-  color: #354b59;
+  background: #faf8ef;
+  color: #776e65;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-family: "Whitney SSm A","Whitney SSm B","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 18px; }
@@ -24,7 +24,7 @@ span.tile-text {
 
 input {
   display: inline-block;
-  background: #8f7a66;
+  background: #bbada0;
   border-radius: 3px;
   padding: 0 20px;
   text-decoration: none;
@@ -97,7 +97,7 @@ h1.title {
 .score-container, .best-container {
   position: relative;
   display: inline-block;
-  background: #0c92bf;
+  background: #bbada0;
   padding: 15px 25px;
   font-size: 25px;
   height: 25px;
@@ -210,7 +210,7 @@ hr {
   -ms-user-select: none;
   -ms-touch-action: none;
   touch-action: none;
-  background: #1e6477;
+  background: #bbada0;
   border-radius: 6px;
   width: 500px;
   height: 500px;
@@ -402,7 +402,7 @@ hr {
     font-weight: bold;
     z-index: 10;
     font-family: 'Source Code Pro', Courier;
-    font-size: 16px; 
+    font-size: 16px;
     color: #354b59;}
   .tile.tile-2 .tile-inner {
     background: url('../tile-sets/udacity/2.png');
@@ -982,7 +982,7 @@ a.learn:hover, a.keep-playing-button:hover, a.learn-low:hover {
 }
 .restart-button, a.retry-button {
   display: inline-block;
-  background: #1e6477;
+  background: #8f7a66;
   border-radius: 3px;
   padding: 0 20px;
   text-decoration: none;
@@ -991,7 +991,7 @@ a.learn:hover, a.keep-playing-button:hover, a.learn-low:hover {
   cursor: pointer;
   display: block;
   text-align: center;
-  float: right; 
+  float: right;
   margin-top: 7px;
 }
 
